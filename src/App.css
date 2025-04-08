@@ -1,0 +1,65 @@
+body {
+  font-family: sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+.app-container {
+  max-width: 400px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(120, 7, 33, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #059992;
+  font-size: 35px;
+}
+
+.input-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.input-field {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #059992;
+  border-radius: 3px;
+  margin-right: 0px;
+}
+
+.add-button {
+  padding: 10px 15px;
+  background-color: #059992;
+  color: white;
+  border: non#03fcef2d;
+  border-radius: 1px;
+  cursor: pointer;
+}
+
+.add-button:hover {
+  background-color: #03fcef2d;
+}
+
+.list-container {
+  border: 1px solid #03fcef2d;
+  border-radius: 4px;
+  padding: 30px;
+  background-color: #03fcef2d;
+}
+
+.list-item {
+  padding: 5px;
+  border-bottom: 1px solid #eee;
+}
+
+.list-item:last-child {
+  border-bottom: none;
+  
+}

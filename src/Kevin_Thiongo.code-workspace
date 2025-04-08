@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "dynamic-list-manager1",
+			"path": "../../dynamic-list-manager1"
+		}
+	],
+	"settings": {}
+}
