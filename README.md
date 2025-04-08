@@ -39,8 +39,8 @@ Develop a simple React application that dynamically allows users to add items to
    - "Second Item"
 
 ### **Project Structure**  
-📂 Project Structure: ├── Dynamic-List manager → Main HTML file
+📂 Project Structure: ├── Dynamic-List manager → Main React file
 ├── App.css → CSS stylesheet
 ├── README.md → Project documentation
-└── git clone - https://github.com/kevin-mwangi-thiongo/Dynamic-List-Manager.git
+└── link http://localhost:5173/
 
